@@ -64,6 +64,7 @@ function clear() {
 }
 
 // ---------------------- Run program --------------------- //
+prompt('You need developer tools console open to play this game, if not open hit F12 in firefox to open console.')
 console.log("Let's play a game of rock paper scissors!")
 console.log("Enter rock paper or scissors into prompt.")
 playerSelection();
